@@ -9,11 +9,11 @@
 
 ---
 
-<h2>👨‍💻 Data Analytics Projects</h2>
-
-- <b>📊 Sales Data Analysis (SQL + Power BI)</b>
-  - Data cleaning, transformation & dashboard creation
-  - Business insights & KPI tracking
+- <b><a href="https://github.com/lawrensss/telecom-churn-analysis">📊 Telecom Customer Churn Analysis</a></b>
+  - Built machine learning models to predict customer churn
+  - Analyzed key factors: tenure, monthly charges, contract type
+  - Achieved ~80% accuracy with Logistic Regression
+  - Provided business recommendations for customer retention
 
 - <b>📈 Twitter Sentiment Analysis (Python)</b>
   - Data scraping & preprocessing
