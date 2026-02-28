@@ -5,7 +5,6 @@
 🎓 BSc Applied Optics & Laser <br/>
 📊 Certified Data Analyst <br/>
 🔐 Cybersecurity Learner & Lab Builder <br/>
-🚀 Future SaaS Analytics Builder
 </p>
 
 ---
@@ -57,6 +56,7 @@
 - Advanced SQL Optimization
 - Ethical Hacking & Penetration Testing
 - Optical System Design
+- Laser systems
 - SaaS Product Development
 
 ---
@@ -70,7 +70,7 @@
 <h2>🤝 Connect With Me</h2>
 
 <a href="mailto:kambolawrence@gmail.com">📧 Email</a> <br/>
-<a href="https://www.linkedin.com/">💼 LinkedIn</a> <br/>
+<a href="https://www.linkedin.com/in/lawrencethukukambo">💼 LinkedIn</a> <br/>
 
 ---
 
