@@ -47,7 +47,7 @@
 
 <b>Languages:</b> Python, SQL <br/>
 <b>Data Tools:</b> Power BI, Excel <br/>
-<b>Cyber Tools:</b> Kali Linux, Nmap, Wireshark <br/>
+<b>Cyber Tools:</b> Kali Linux, Nmap, Burpsuite, Wireshark <br/>
 <b>Other:</b> Git, GitHub, VMware
 
 ---
