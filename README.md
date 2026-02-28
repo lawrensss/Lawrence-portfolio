@@ -9,6 +9,8 @@
 
 ---
 
+<h2>👨‍💻 Data Analytics Projects</h2>
+
 - <b><a href="https://github.com/lawrensss/telecom-churn-analysis">📊 Telecom Customer Churn Analysis</a></b>
   - Built machine learning models to predict customer churn
   - Analyzed key factors: tenure, monthly charges, contract type
@@ -26,7 +28,7 @@
   - Aggregations
   - Subqueries
 
-<h2>🔐 Cybersecurity Engineering Projects</h2>
+<h2>🔐 Cybersecurity Projects</h2>
 
 - <b><a href="https://github.com/lawrensss/Idor-access-control-audit">IDOR Access Control Audit</a></b>
   - Security assessment of employee portal
