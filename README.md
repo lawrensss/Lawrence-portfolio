@@ -17,6 +17,14 @@
   - Achieved ~80% accuracy with Logistic Regression
   - Provided business recommendations for customer retention
 
+- <b><a href="https://github.com/lawrensss/food-delivery-analysis">🍔 Food Delivery Analysis (New Delhi)</a></b>
+  - Analyzed 10,000+ food orders to uncover business insights
+  - Identified peak order hours (12-2pm and 7-9pm) for staffing optimization
+  - Found average delivery time of 35 minutes with 20% of orders delayed beyond 45 minutes
+  - Discovered digital payments lead to higher customer ratings than cash
+  - Top cuisines: North Indian, Chinese, and South Indian drive 70% of orders
+  - Provided 7 actionable recommendations for business improvement
+
 - <b>📈 Twitter Sentiment Analysis (Python)</b>
   - Data scraping & preprocessing
   - Sentiment classification
