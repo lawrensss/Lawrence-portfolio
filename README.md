@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lawrence Thuku Kambo 👋</h1>
-<h3 align="center">Data Analyst | Cybersecurity Enthusiast | Applied Optics Student</h3>
+<h3 align="center">Data Analyst | Cybersecurity Enthusiast | Applied Optics & Lasers Student</h3>
 
 <p align="center">
 🎓 BSc Applied Optics & Laser <br/>
@@ -10,6 +10,13 @@
 ---
 
 <h2>👨‍💻 Data Analytics Projects</h2>
+
+- <b><a href="https://github.com/lawrensss/walmart-sales-forecasting">🏬 Walmart Sales Forecasting</a></b>
+  - Predicted weekly sales for 45 stores using historical data and machine learning
+  - Identified 16% holiday sales lift to optimize inventory and staffing
+  - Built and compared Random Forest vs XGBoost models (XGBoost achieved $1,721 MAE)
+  - Engineered 15+ features including holiday flags, seasonality, and economic indicators
+  - Delivered 13 actionable business recommendations for inventory, staffing, and marketing
 
 - <b><a href="https://github.com/lawrensss/telecom-churn-analysis">📊 Telecom Customer Churn Analysis</a></b>
   - Built machine learning models to predict customer churn
@@ -24,11 +31,6 @@
   - Discovered digital payments lead to higher customer ratings than cash
   - Top cuisines: North Indian, Chinese, and South Indian drive 70% of orders
   - Provided 7 actionable recommendations for business improvement
-
-- <b>📈 Twitter Sentiment Analysis (Python)</b>
-  - Data scraping & preprocessing
-  - Sentiment classification
-  - Visualization of public opinion trends
 
 - <b>📉 SQL Data Exploration Repository</b>
   - Complex joins
@@ -52,12 +54,13 @@
   - Tested Medium security SQL injection
   - Bypassed quote escaping
   - Extracted database data
+
 <h2>⚙️ Technical Skills</h2>
 
 <b>Languages:</b> Python, SQL <br/>
-<b>Data Tools:</b> Power BI, Excel <br/>
-<b>Cyber Tools:</b> Kali Linux, Nmap, Burpsuite, Wireshark <br/>
-<b>Other:</b> Git, GitHub, VMware
+<b>Data Tools:</b> Power BI, Excel, pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost <br/>
+<b>Cyber Tools:</b> Kali Linux, Nmap, Burpsuite, Wireshark, aircrack-ng <br/>
+<b>Other:</b> Git, GitHub, VMware, Google Colab, Time Series Analysis
 
 ---
 
