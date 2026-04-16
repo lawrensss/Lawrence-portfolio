@@ -77,6 +77,7 @@
 <h2>🏆 Certifications</h2>
 
 - Data Analytics Certification – Sigma Academy (2024)
+- Diploma Certificate in Cybersecurity - Alt School Africa (2026)
 
 ---
 
